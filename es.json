@@ -3,7 +3,8 @@
 
     "lng_settings_enhanced": "Ajustes mejorados",
     "lng_settings_network": "Red",
-    "lng_settings_net_speed_boost": "Aumentar velocidad de subida",
+    "lng_settings_net_upload_speed_boost": "Aumentar velocidad de subida",
+    "lng_settings_net_download_speed_boost": "Aumentar velocidad de descarga",
     "lng_settings_show_message_id": "Ver ID del mensaje",
     "lng_settings_button": "Botón",
     "lng_settings_show_emoji_button_as_text": "Mostrar el emoji del botón como texto",
@@ -25,7 +26,10 @@
     "lng_settings_disable_link_warning": "Desactivar advertencia al abrir enlaces",
     "lng_settings_hide_messages": "Ocultar mensajes de usuarios bloqueados",
     "lng_settings_disable_premium_animation": "Desactivar animación premium",
+    "lng_settings_disable_global_search": "Desactivar búsqueda global",
     "lng_settings_show_seconds": "Tiempo con segundos",
+    "lng_settings_hide_counter": "Ocultar contador de usuarios en línea",
+    "lng_settings_hide_stories": "Ocultar historias",
     "lng_settings_restart_hint": "ADVERTENCIA: Cambiar las opciones que están coloreadas en rojo tendrán efecto solo después de que se reinicie la aplicación.",
 
     "lng_settings_skip_message": "Pasar al siguiente chat sin leer",
@@ -122,8 +126,10 @@
     "lng_go_to_first_message": "Ir al primer mensaje",
 
     "lng_proxy_remove_all": "Eliminar todos los proxies",
-    
+
     "lng_copy_profile_id": "ID copiado al portapapeles.",
 
-    "lng_group_requests_ban": "Ban"
+    "lng_group_requests_ban": "Expulsar",
+
+    "lng_blocked_user_hint": "[Mensaje de usuario bloqueado]\n"
 }

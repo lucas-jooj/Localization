@@ -3,7 +3,8 @@
 
     "lng_settings_enhanced": "Cài đặt nâng cao",
     "lng_settings_network": "Mạng",
-    "lng_settings_net_speed_boost": "Tăng tốc độ tải lên",
+    "lng_settings_net_upload_speed_boost": "Tăng tốc độ tải lên",
+    "lng_settings_net_download_speed_boost": "Download speed boost",
     "lng_settings_show_message_id": "Hiển thị ID tin nhắn",
     "lng_settings_button": "Nút",
     "lng_settings_show_emoji_button_as_text": "Hiển thị nút biểu tượng cảm xúc dưới dạng văn bản",
@@ -25,7 +26,10 @@
     "lng_settings_disable_link_warning": "Tắt cảnh báo liên kết đang mở",
     "lng_settings_hide_messages": "Ẩn tin nhắn từ người dùng bị chặn",
     "lng_settings_disable_premium_animation": "Tắt hoạt ảnh cao cấp",
+    "lng_settings_disable_global_search": "Disable global search",
     "lng_settings_show_seconds": "Thời gian tính bằng giây",
+    "lng_settings_hide_counter": "Hide online users counter",
+    "lng_settings_hide_stories": "Hide Stories",
     "lng_settings_restart_hint": "CẢNH BÁO: Thay đổi các tùy chọn có màu đỏ sẽ chỉ có hiệu lực sau khi ứng dụng khởi động lại.",
 
     "lng_settings_skip_message": "Chuyển đến cuộc trò chuyện chưa đọc tiếp theo",
@@ -122,8 +126,10 @@
     "lng_go_to_first_message": "Đi tới tin nhắn đầu tiên",
 
     "lng_proxy_remove_all": "Xóa tất cả proxy",
-    
+
     "lng_copy_profile_id": "Đã sao chép ID vào khay nhớ tạm.",
 
-    "lng_group_requests_ban": "Ban"
+    "lng_group_requests_ban": "Ban",
+
+    "lng_blocked_user_hint": "[Blocked User Message]\n"
 }

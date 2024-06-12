@@ -3,7 +3,8 @@
 
     "lng_settings_enhanced": "Migliorie",
     "lng_settings_network": "Rete",
-    "lng_settings_net_speed_boost": "Incremento velocità di caricamento",
+    "lng_settings_net_upload_speed_boost": "Incremento velocità di caricamento",
+    "lng_settings_net_download_speed_boost": "Download speed boost",
     "lng_settings_show_message_id": "Mostra ID dei messaggi",
     "lng_settings_button": "Pulsanti",
     "lng_settings_show_emoji_button_as_text": "Testo invece delle emoji",
@@ -25,7 +26,10 @@
     "lng_settings_disable_link_warning": "Non avvisare quando apro un link",
     "lng_settings_hide_messages": "Nascondi i messaggi dagli utenti bloccati",
     "lng_settings_disable_premium_animation": "Disattiva l'animazione di Premium",
+    "lng_settings_disable_global_search": "Disable global search",
     "lng_settings_show_seconds": "Time with seconds",
+    "lng_settings_hide_counter": "Hide online users counter",
+    "lng_settings_hide_stories": "Hide Stories",
     "lng_settings_restart_hint": "Attenzione! Dopo aver cambiato una delle opzioni evidenziate, l'app si riavvierà immediatamente affinché la modifica abbia effetto.",
 
     "lng_settings_skip_message": "Vai alla prossima chat non letta",
@@ -51,9 +55,9 @@
 
     "lng_context_copy_callback_data": "Copia dati di callback",
     "lng_context_forward_selected_no_quote": "Inoltra senza citare",
+    "lng_selected_forward_no_quote": "Inoltra senza citare",
     "lng_context_forward_msg_old_selected": "Inoltro classico",
     "lng_selected_forward_emoji_classic": "📠 (classico)",
-    "lng_selected_forward_no_quote": "Inoltra senza citare",
 
     "lng_message_id": "ID del messaggio: ",
 
@@ -122,8 +126,10 @@
     "lng_go_to_first_message": "Vai al primo messaggio",
 
     "lng_proxy_remove_all": "Rimuovi tutti i proxy",
-    
+
     "lng_copy_profile_id": "ID copiato negli appunti.",
 
-    "lng_group_requests_ban": "Ban"
+    "lng_group_requests_ban": "Ban",
+
+    "lng_blocked_user_hint": "[Blocked User Message]\n"
 }

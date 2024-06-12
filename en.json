@@ -3,7 +3,8 @@
 
     "lng_settings_enhanced": "Enhanced Settings",
     "lng_settings_network": "Network",
-    "lng_settings_net_speed_boost": "Upload speed boost",
+    "lng_settings_net_upload_speed_boost": "Upload speed boost",
+    "lng_settings_net_download_speed_boost": "Download speed boost",
     "lng_settings_show_message_id": "Show message ID",
     "lng_settings_button": "Button",
     "lng_settings_show_emoji_button_as_text": "Show emoji button as text",
@@ -25,7 +26,10 @@
     "lng_settings_disable_link_warning": "Disable open link warning",
     "lng_settings_hide_messages": "Hide messages from blocked user",
     "lng_settings_disable_premium_animation": "Disable Premium Animation",
+    "lng_settings_disable_global_search": "Disable global search",
     "lng_settings_show_seconds": "Time with seconds",
+    "lng_settings_hide_counter": "Hide online users counter",
+    "lng_settings_hide_stories": "Hide Stories",
     "lng_settings_restart_hint": "WARNING: Changing options that are colored in red will take effect only after the app restarts.",
 
     "lng_settings_skip_message": "Skip to next unread chat",
@@ -122,8 +126,10 @@
     "lng_go_to_first_message": "Go to first message",
 
     "lng_proxy_remove_all": "Remove all proxies",
-    
+
     "lng_copy_profile_id": "ID copied to clipboard.",
 
-    "lng_group_requests_ban": "Ban"
+    "lng_group_requests_ban": "Ban",
+
+    "lng_blocked_user_hint": "[Blocked User Message]\n"
 }
